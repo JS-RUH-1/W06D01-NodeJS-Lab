@@ -1,0 +1,19 @@
+{
+  "name": "w06d01-nodejs-lab",
+  "version": "1.0.0",
+  "description": "Follow these steps:\r - Install `Node.js` and create a `Node.js ﬁle` called `HelloWorld.js`. This code should create a web server that returns a web page that says “Hey! I can use Node!”. Your web server should listen for HTTP requests on port 3000.",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhaledAlhamad/W06D01-NodeJS-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhaledAlhamad/W06D01-NodeJS-Lab/issues"
+  },
+  "homepage": "https://github.com/KhaledAlhamad/W06D01-NodeJS-Lab#readme"
+}
